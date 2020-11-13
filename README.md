@@ -1,4 +1,4 @@
-![](./logos/microsoftWebApiLogo.png)
+![]()
 # SSO - APIRestFull
 
 - Integrado con [Swagger](https://swagger.io/) para documentación.
